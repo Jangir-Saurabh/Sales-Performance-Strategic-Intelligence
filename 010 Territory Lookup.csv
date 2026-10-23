@@ -1,0 +1,11 @@
+SalesTerritoryKey,Region,Country,Continent,Latitude,Longitude
+1,Northwest,United States,North America,45.5,-121
+2,Northeast,United States,North America,42.5,-73.5
+3,Central,United States,North America,39.8,-95
+4,Southwest,United States,North America,34,-112
+5,Southeast,United States,North America,32.5,-83
+6,Canada,Canada,North America,56.1304,-106.3468
+7,France,France,Europe,46.2276,2.2137
+8,Germany,Germany,Europe,51.1657,10.4515
+9,Australia,Australia,Pacific,-25.2744,133.7751
+10,United Kingdom,United Kingdom,Europe,55.3781,-3.436
