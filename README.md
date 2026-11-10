@@ -9,7 +9,7 @@ Here’s what I focused on:
 🌍 Country-wise and regional sales
 🛍️ Product performance and returns
 
-link:- https://lnkd.in/djG5nnib
+link:- https://app.fabric.microsoft.com/groups/me/reports/da0babee-1e94-4dc3-8ac0-8fd6315d446e/55e077b87c490a67eca1?ctid=8415fdeb-2fc6-455b-97b6-24bf5ae8ea1d&experience=power-bi
 
 I also tried to keep the dashboard clean, interactive, and easy to navigate so that the insights are clear at a glance.
 This project gave me a chance to practice my Power BI skills and learn more about how data can be used to understand business performance.
